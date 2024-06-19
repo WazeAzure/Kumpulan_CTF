@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>6.0</SchemaVersion>
+  <CreatedDate>2023/09/24 09:59:52 (WIB)</CreatedDate>
+  <ModifiedDate>2023/09/24 09:59:57 (WIB)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.21.0</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.21.0</SavedByAutopsyVersion>
+  <Case>
+    <Name>ctf_cnc_quals_20230924_095952</Name>
+    <DisplayName>ctf_cnc_quals</DisplayName>
+    <Number/>
+    <Examiner/>
+    <ExaminerPhone/>
+    <ExaminerEmail/>
+    <CaseNotes/>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+  <ContentProvider>
+    <Name/>
+  </ContentProvider>
+  <OriginalCase/>
+</AutopsyCase>
