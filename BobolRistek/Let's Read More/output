@@ -1,0 +1,13 @@
+__init__.py
+main.py
+requirements.txt
+__pycache__:
+	gunicorn.conf.cpython-310.pyc
+books: 
+	1984.txt 
+	apa_ya_inie 
+	dune.txt 
+	flag.txt 
+	lolita.txt 
+templates: 
+	index.html
